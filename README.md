@@ -8,4 +8,5 @@ Feel free to use the assets provided in this repository, modify the game as much
 
 Raylib download: https://raylib.com
 
-![Banner](https://user-images.githubusercontent.com/90605554/210549618-a2fe9428-61f7-4e42-bbc6-35b49a6b13e7.png)
+![Screenshot](https://github.com/andrasdaradici/Flappy-Bird-Raylib/assets/90605554/f228239b-8688-4394-9587-3602033173a2)
+
